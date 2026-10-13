@@ -1,0 +1,18 @@
+{
+  "id":"./",
+  "name":"Qawaid Studio",
+  "short_name":"Qawaid",
+  "description":"Latihan nahwu, sharaf, dan tarjamah tanpa biaya layanan",
+  "lang":"id",
+  "dir":"ltr",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f4ef",
+  "theme_color":"#174b42",
+  "icons":[
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
